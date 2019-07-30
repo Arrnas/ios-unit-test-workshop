@@ -1,0 +1,4 @@
+framework module SwiftyPrototype {
+  header "SwiftyPrototype-Swift.h"
+  requires objc
+}

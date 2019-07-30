@@ -1,0 +1,15 @@
+{
+  "commitish" : "3.3.3",
+  "iOS" : [
+    {
+      "name" : "SwiftyMocky",
+      "hash" : "3b5032f44f9641f9dd32394b55c2226ae297d252bef38857a6f3eec510a450db",
+      "swiftToolchainVersion" : "4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+    },
+    {
+      "name" : "SwiftyPrototype",
+      "hash" : "3d090c223612aaf934a4eb21fe1fb96b764c402f6898a27be59a7eb528d7088f",
+      "swiftToolchainVersion" : "4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+    }
+  ]
+}
